@@ -46,8 +46,6 @@ Construido con:
 
 En este proyecto aprendí a separar la parte semántica html con el diseño CSS, trabajando primero en HTML y luego en el lenguaje de diseño.
 
-En estos casos dónde no se está trabajando en una página completa, sino en un componente independiente de una hipotético sitio web,  no es necesario agregar un <main>  ni encabezados cómo en <h1>, <h2>, entre otros, ya que se sobreentienden que esta tarjeta es un contenido independiente de una hipotética página que ya tiene sus propios encabezados.
-
 Estoy insistiendo en dominar el uso de la metodología BEM para mis proyectos: Bloque, elemento, modificador. Entendí que todo proyecto se puede entender en conjuntos de bloques y que estos, a su vez, poseen elementos que podemos modificar. Es importante que el modificar prediga cuál será el estilo que se aplique, para que de esa manera sea más sencillo de entenderlo, reutilizarlo y, en caso de que sea un proyecto en constante crecimiento, sea facilmente escalable
 
 Aprendí la utilidad del position relative y el position absolute. En el proyecto se aplicó position relative al contenedor y position absolute para poder mover el elemento con respecto a su contenedor.
@@ -105,5 +103,4 @@ https://developer.mozilla.org/es/docs/Web/CSS/:active - Pseudoclase :active - MD
 - GitHub [Ezequiel Vélez] (https://github.com/velzeq7) 
 
 - Frontend Mentor[@velzeq7] (https://www.frontendmentor.io/profile/velzeq7) 
-
 
