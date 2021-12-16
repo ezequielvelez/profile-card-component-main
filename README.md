@@ -26,8 +26,8 @@ Esta es una solución al "Desafío del componente de tarjeta de perfil en Fronte
 
 ### Enlaces
 
-- URL de la solución: [Agregar URL de la solución aquí] (https://your-solution-url.com)
-- URL del sitio en vivo: [Agregar URL del sitio en vivo aquí 
+- URL de la solución: [https://www.frontendmentor.io/profile/velzeq7]
+- URL del sitio en vivo: [https://ezequielvelez.github.io/profile-card-component-main/]
 
 ## Mi proceso
 
